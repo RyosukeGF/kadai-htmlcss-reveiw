@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+header{
+    background-color:#ffcccc;
+    width : 1000px;
+    height:25px;
+}
+
+#wrapper{
+    display : flex;
+    width : 1000px;
+
+}
+
+#main{
+    width : 700px;
+    background-color:#ccffcc;
+    height:450px;
+    margin:0px;
+}
+
+#menu{
+    width : 300px;
+    background-color:#ccccff;
+    height:450px;
+    margin:0px;
+}
+
+
+footer{
+    background-color:#ffccff;
+    width : 1000px;
+    height:25px;
+}
+
+footer p{
+    margin:0px;
+
+}
